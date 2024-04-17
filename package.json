@@ -1,0 +1,25 @@
+{
+  "name": "@qontlo/pbdjarum76",
+  "version": "1.0.1",
+  "description": "badminton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qontlo/PBdjarum76.git"
+  },
+  "keywords": [
+    "pbdjarum"
+  ],
+  "author": "qontlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qontlo/PBdjarum76/issues"
+  },
+  "homepage": "https://github.com/qontlo/PBdjarum76#readme",
+  "dependencies": {
+    "pbdjarum76": "^1.0.1"
+  }
+}

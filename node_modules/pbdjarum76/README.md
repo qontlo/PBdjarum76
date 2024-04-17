@@ -1,0 +1,2 @@
+https://pbdjarum.org/#gref
+The Djarum Badminton Association (abbreviated as PB Djarum) was inaugurated in 1969. Initially this association was founded only as a hobby activity for employees of the Djarum cigarette factory in Kudus. However, in 1969, it was finally not only employees who took part in training, but also players from outside. This was the beginning of Djarum's coaching in contributing to national players.
